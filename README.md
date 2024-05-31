@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poetsen+One&duration=4000&pause=20&color=FE428E&center=true&repeat=false&random=false&width=435&lines=Hello+World!;Hello+World%2C+My+Name+is+Rapha!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poetsen+One&duration=4000&pause=20&color=FE428E&center=true&repeat=true&random=false&width=435&lines=Hello+World!;Hello+World%2C+My+Name+is+Rapha!)](https://git.io/typing-svg)
 
 - 💬 Carioca, universitário e nas horas vagas posto umas coisas por aqui
 - 🖥️ Atualmente trabalhando como suporte de TI, mas em busca da primeira oportunidade na área de programação
