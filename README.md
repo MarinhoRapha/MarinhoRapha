@@ -30,8 +30,7 @@
   
 </div>
 
-![snake gif](https://github.com/MarinhoRapha/MarinhoRapha/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/MarinhoRapha/Marinho/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **MarinhoRapha/MarinhoRapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
