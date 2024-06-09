@@ -2,7 +2,7 @@
 
 - 💬 Carioca, universitário e nas horas vagas posto umas coisas por aqui
 - 🖥️ Atualmente trabalhando como suporte de TI, mas em busca da primeira oportunidade na área de programação
-- 🕮 Estudando Front-End
+- 🕮 Front-End e Web Developer 
 
 </br>
 </br>
